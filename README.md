@@ -11,6 +11,7 @@ Spring Themeleaf is used as a client to consume RestAPI.
 
 
 To validate credit card number through client please click below link 
+cloud server details will be attached soon to access the service. providing local host url.
 http://localhost:8080/creditcard
 
 To access restapi please click below link and pass cardnumber in the url
